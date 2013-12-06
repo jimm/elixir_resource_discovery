@@ -2,7 +2,7 @@ defmodule ResourceDiscovery.Mixfile do
   use Mix.Project
 
   def project do
-    [ app: :"elixir-resource-discovery",
+    [ app: :"elixir_resource_discovery",
       version: "0.0.1",
       elixir: "~> 0.11.3-dev",
       deps: deps ]
